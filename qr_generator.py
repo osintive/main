@@ -32,7 +32,7 @@ else:
 if command_line_switch:
     code = qrcode.make(qr_contents)
     code.save(f'{filename}.png')
-    print(f'Created and saved {filename}.png with value {qr_contents}')
+    print(f'Created and saved "{filename}.png" with value: {qr_contents}')
 else:
     counter = 0
     for name in filename:
