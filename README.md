@@ -19,10 +19,26 @@ It's simple, check out these simple steps!
 Here is an example of a [twitter](https://twitter.com/search?q=%23OSINT%20%23CBR%20%23CTF&src=typed_query&f=live) and [linkedin](https://www.linkedin.com/search/results/content/?keywords=%23osint%20%23cbr%20%23ctf&origin=SWITCH_SEARCH_VERTICAL) search for currently active flags.
 
 ### What do the different colours mean?
-We want everyone encouraged to join in, so we've decided on different difficulties to challenge different learning paths.
+We want everyone to join in, so we've decided on different difficulties to challenge different learning paths.
 
-- #### Green ![](greentag.png =100x20)
-    - Green 
+- #### Green ![](greentag.png)
+    - Green Flags are easy. These are for everyone to get involved and have some fun.  These will require;
+        - a photo of the flags location;
+        - an optional selfie;
+        - hashtags, and;
+        - a recognisable location, e.g. tourist spots, resturants, etc.
+
+- #### Yellow ![](yellowishtag.png)
+    - Yellow Flags are moderately hard. These are for someone who is more experienced with OSINT and looking to increase the challenge.  These will require;
+        - a non-tourist spot, and;
+        - Other points TBA
+
+- #### Red ![](redtag.png)
+    - Red Flags are hard.  These are intended for experienced OSINTers' where an image isn't the whole and only story.  These flags will require some creativity and hard work, both for the person who hides them and searches for them.  The requirements are TBA.
+
+- #### White ![](whitetag.png)
+    - White flags are intended for permanent locations.  These flags are TBA, they will require some development for community tracking.
+
 ### Are there rules?
-First and foremost, safety is everyone's responsability. We do not encourage any illegal behaviour, and do not encourage any unsafe activities. 
+First and foremost, safety is everyone's responsibility. We do not encourage any illegal behaviour, and do not encourage any unsafe activities. More TBA.
 
