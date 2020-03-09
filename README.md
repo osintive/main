@@ -5,17 +5,24 @@ OSINTive is a fun community based game encouraging you to learn OSINT.  OSINT me
 OSINT, or Open Source Intelligence, in Cyber Security is any sort of intelligence gained through any publicly avaialble source. It is used for good, and for malicious intent, and in this case used for fun. 
 
 ### Great! How do I get involved?
-It's simple! 
+It's simple, check out these simple steps! 
 - Social media account, preferably twitter;
 - Find the flag using hashtags;
     - [#OSINT](https://twitter.com/search?q=%23OSINT&src=typeahead_click) (Open Source Intelligence)
     - [#CTF](https://twitter.com/search?q=%23CTF&src=typeahead_click) (Capture the Flag)
-    - [#CBR](https://twitter.com/search?q=%23CBR&src=typeahead_click) (or your locality, #YASS, #QBYN, etc.)
+    - [#CBR](https://twitter.com/search?q=%23CBR&src=typeahead_click) (Your your locality, #SYD, #BNE, etc.)
     - [#TSS](https://twitter.com/search?q=%23TSS&src=typed_query&f=live) (Optional, your company name)
 - Track the flag down using the knowledge you've gained;
 - Find the flag, claim it as your own, brag about it;
 - Find a new location, and post a selfie of yourself with it.
 
-Here is an [example](https://twitter.com/search?q=%23OSINT%20%23CBR%20%23CTF&src=typed_query&f=live) of a twtter search for currently active flags.
+Here is an example of a [twitter](https://twitter.com/search?q=%23OSINT%20%23CBR%20%23CTF&src=typed_query&f=live) and [linkedin](https://www.linkedin.com/search/results/content/?keywords=%23osint%20%23cbr%20%23ctf&origin=SWITCH_SEARCH_VERTICAL) search for currently active flags.
 
-CTF
+### What do the different colours mean?
+We want everyone encouraged to join in, so we've decided on different difficulties to challenge different learning paths.
+
+- #### Green ![](greentag.png =100x20)
+    - Green 
+### Are there rules?
+First and foremost, safety is everyone's responsability. We do not encourage any illegal behaviour, and do not encourage any unsafe activities. 
+
